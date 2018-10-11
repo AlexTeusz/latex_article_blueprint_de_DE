@@ -1,7 +1,7 @@
 # latex_article_blueprint_de_DE
 
 
-**Gernerl**
+**General**
 
 The repository includes all Latex (.tex) files to write an article in german. Simply clone this repository and start your work for university or other organisations etc. 
 
